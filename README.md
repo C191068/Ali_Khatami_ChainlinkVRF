@@ -60,7 +60,15 @@ The price and link of evry random number you passed will be based on current gas
 
 we have no consumer address <br>
 
+![l38](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/0a058ea3-17e5-4b35-8322-ba4d75852851)
 
+For that we have to link the link below and a contract will be open at REMIX IDE <br>
+
+
+![l39](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/594b336f-a40e-4983-ac2a-ac02f102fc6d)
+
+
+This is the contract that opened at REMIX IDE <br>
 
 
 
