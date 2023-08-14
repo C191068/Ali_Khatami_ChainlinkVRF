@@ -76,6 +76,10 @@ This is the contract that opened at REMIX IDE <br>
 Here at the top we have two important imports <br>
 
 
+![l41](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/b3e1dcfe-7d00-49bb-9fa8-3912beb84ece)
+
+The key hash option is a way that we specify the gas line was specified in the documentation <br>
+
 
 
 
