@@ -97,6 +97,11 @@ Another most important and useful features that gives a lot more flexibility and
 
 is the number of random numbers we want for that the above white arrow marked variable we use 
 
+![l44](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/782a4918-ad63-4b5a-8ff7-c6131b2a03a7)
+
+In the above constructor we can see address to the coordinator and the subscription that will be created as <br>
+we deploy the contract <br>
+
 
 
 
