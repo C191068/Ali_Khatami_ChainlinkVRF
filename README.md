@@ -91,8 +91,11 @@ here above ```uint32 callbackGasLimit = 40000;```  that we are in charge of <br>
 
 So depending on how much gas we want to spend to fulfill a random number we must set this value appropriately <br>
 
+![l43](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/c9af3499-982a-4693-8774-3e527a930908)
 
+Another most important and useful features that gives a lot more flexibility and control of our VRF <br>
 
+is the number of random numbers we want for that the above white arrow marked variable we use 
 
 
 
