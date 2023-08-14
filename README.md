@@ -53,6 +53,9 @@ Then we will click the Confirm button <br>
 
 Thus the fund is added <br>
 
+The price and link of evry random number you passed will be based on current gas rates on a given chain as well as gas you choose <br>
+
+
 
 
 
