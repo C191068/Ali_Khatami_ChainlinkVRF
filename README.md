@@ -357,7 +357,15 @@ Then we wil click here the confirm button <br>
 ![l59](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/bcee0859-0efd-4401-ad8f-0798f74d7073)
 Successful transactions occured <br>
 
+![l60](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/4a551fb1-faaa-458a-a3d9-1758e840b8e7)
 
+To get a house through roll dice we paste our metamask wallet account here <br>
+
+![l61](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/df27e43a-7938-445a-b50e-8491e93731a8)
+Then click the house button <br>
+
+![l62](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/16f8546c-39e3-4a01-bbc4-e27414a3d423)
+Thus we win a house <br>
 
 
 
