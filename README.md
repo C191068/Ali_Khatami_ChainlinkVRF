@@ -142,6 +142,11 @@ Successful Transaction occured and now we will copy the contract address  <br>
 
 
 
+![l52](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/907bccbb-b181-49fe-8c58-f30b09a43091)
+
+And add that as Consumer address in the above section <br>
+
+
 
 
 
