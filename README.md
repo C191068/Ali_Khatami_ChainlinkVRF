@@ -45,7 +45,13 @@ And we can use that account for all of our random request <br>
 We gonna put 10 links you can put whatever you want <br>
 
 
+![l35](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/ef015b96-b2a1-4190-9dcb-80f73c070d04)
 
+Then we will click the Confirm button <br>
+
+![l36](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/a7cbb03d-926a-4aa5-ad3a-bf8f44dbf568)
+
+Thus the fund is added <br>
 
 
 
