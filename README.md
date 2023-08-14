@@ -122,6 +122,10 @@ to the Oracle <br>
 The soilidity code is successfully compiled <br>
 
 
+![l48](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/fac34e78-ddc8-470a-977c-e6cdb6bbc100)
+
+here our environmet will be injectedprovider -metamask <br>
+
 
 
 
