@@ -12,3 +12,8 @@ We will go to the above link https://docs.chain.link/getting-started/intermediat
 and click the get random number shown with black arrow and click Subscriptions manager shown <br>
 with blue arrow <br>
 
+![l28](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/b9f8e78c-f4a9-4206-8677-7d240a55736b)
+
+Then we will connnect wallet button here <br>
+
+
