@@ -111,7 +111,15 @@ When we gonna deploy this we gonna use this subscription ID <br>
 
 ![l46](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/162df46c-ef8b-4546-b229-5c1529e42e8f)
 
-We have got here fulfillRandomWords method <br>
+We have got here fulfillRandomWords method that takes in randomness that is going to be fulfilled <br>
+
+by VRF oracle as well we got request random words is how we are gonna actually initiate the request <br>
+
+to the Oracle <br>
+
+
+
+
 
 
 
