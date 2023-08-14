@@ -106,6 +106,10 @@ we deploy the contract <br>
 ![l45](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/bfd8e2c2-500d-4614-a224-52932cfdbd30)
 
 Earlier when we created the subscription we got subscription ID <br>
+When we gonna deploy this we gonna use this subscription ID <br>
+
+
+
 
 
 
