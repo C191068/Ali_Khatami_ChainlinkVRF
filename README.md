@@ -368,6 +368,10 @@ Then click the house button <br>
 Thus we win a house <br>
 
 
+![l63](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/c6d92dfd-c876-4801-9f04-696af0d6b40f)
+
+here in the above subscription details we can see that the amount of link we spent <br>
+
 
 
 
