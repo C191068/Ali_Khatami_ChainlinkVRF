@@ -81,6 +81,10 @@ Here at the top we have two important imports <br>
 The key hash option is a way that we specify the gas line was specified in the documentation <br>
 
 
+So depending on the key hash we choose for the given chain we are on the gas limit will be set differently <br>
+for our random number request <br>
+
+
 
 
 
