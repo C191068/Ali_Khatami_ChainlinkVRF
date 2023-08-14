@@ -151,8 +151,12 @@ subscription account by clicking ```Add Consumer``` button <br>
 
 Metamask will pop up again and ask for confirmation and successful transaction will occured <br>
 
-![l54](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/e84364dc-d844-4b22-9e14-ddc43c0566b4)
-Thus consumer is also successfully added <br>
+![l54](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/7fcf743c-eddd-4209-9f6c-6216b1f12e83)
+
+Thus consumer is also successfully added and we will click the ```View Subscription``` button <br>
+
+
+
 
 
 
