@@ -103,7 +103,8 @@ In the above constructor we can see address to the coordinator and the subscript
 we deploy the contract <br>
 
 
-![l45](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/bfd8e2c2-500d-4614-a224-52932cfdbd30)
+![l45](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/289a8c13-b82a-46d1-811e-4a57266e0c2e)
+
 
 Earlier when we created the subscription we got subscription ID <br>
 When we gonna deploy this we gonna use this subscription ID <br>
@@ -125,6 +126,10 @@ The soilidity code is successfully compiled <br>
 ![l48](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/fac34e78-ddc8-470a-977c-e6cdb6bbc100)
 
 here our environmet will be injectedprovider -metamask <br>
+
+![l49](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/bfbcda65-94bd-4439-8fae-662897f345e2)
+
+We have paste the subscription ID here <br>
 
 
 
