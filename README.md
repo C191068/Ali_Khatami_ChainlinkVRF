@@ -71,6 +71,10 @@ For that we have to link the link below and a contract will be open at REMIX IDE
 This is the contract that opened at REMIX IDE <br>
 
 
+![l40](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/ecebac4b-28df-4267-82d4-189af6c020ff)
+
+Here at the top we have two important imports <br>
+
 
 
 
