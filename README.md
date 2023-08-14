@@ -159,6 +159,8 @@ Thus consumer is also successfully added and we will click the ```View Subscript
 
 here we can have our subscription , we can see how much link we funded and we can see our consumer contract <br>
 
+So by doing thses we authorize our consumer contract to make requests for randomness <br>
+
 
 
 
