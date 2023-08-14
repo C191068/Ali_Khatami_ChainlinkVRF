@@ -147,6 +147,9 @@ Successful Transaction occured and now we will copy the contract address  <br>
 And add that as Consumer address in the above section and authorize the contract to use my  <br>
 subscription account by clicking ```Add Consumer``` button <br>
 
+![l53](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/f25e6117-0722-4017-b7f0-81bc767fe401)
+
+Metamask will pop up again and ask for confirmation and successful transaction will occured <br>
 
 
 
