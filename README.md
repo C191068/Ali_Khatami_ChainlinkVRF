@@ -85,6 +85,11 @@ So depending on the key hash we choose for the given chain we are on the gas lim
 for our random number request <br>
 
 
+![l42](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/5dfe1038-ee47-460e-be0b-83da6889ca97)
+
+here above ```uint32 callbackGasLimit = 40000;```  that we are in charge of <br>
+
+So depending on how much gas we want to spend to fulfill a random number we must set this value appropriately <br>
 
 
 
