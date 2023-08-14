@@ -52,7 +52,7 @@ Then we will click the Confirm button <br>
 ![l36](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/57160cac-b685-4082-8d52-c1a2931176cf)
 
 
-Thus the fund is added <br>
+Thus the fund is added and we will now add consumer <br>
 
 The price and link of evry random number you passed will be based on current gas rates on a given chain as well as gas you choose <br>
 
