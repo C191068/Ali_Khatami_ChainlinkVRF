@@ -129,9 +129,15 @@ here our environmet will be injectedprovider -metamask <br>
 
 ![l49](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/bfbcda65-94bd-4439-8fae-662897f345e2)
 
-We have paste the subscription ID here <br>
+We have paste the subscription ID here and click the deploy button <br>
 
+![l50](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/c64beedd-18cb-474e-aeb5-7c162d149293)
 
+Then we will click the confirm button <br>
+
+![l51](https://github.com/C191068/Ali_Khatami_ChainlinkVRF/assets/89090776/0d129181-19bd-428e-ae84-5ec7b6af2d41)
+
+Successful Transaction occured <br>
 
 
 
